@@ -12,3 +12,4 @@ features:
 siblings:
   - temper_left
   - temper_right
+  - temper_dongle

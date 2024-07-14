@@ -19,3 +19,6 @@ include:
     shield: temper_right
   - board: nice_nano_v2
     shield: settings_reset
+  - board: seeeduino_xiao_ble
+    shield: temper_dongle
+    artifact-name: temper_dongle
