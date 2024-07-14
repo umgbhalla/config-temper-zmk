@@ -3,7 +3,7 @@ id: temper
 name: Chocofi Temper
 type: shield
 url: https://github.com/raeedcho/chocofi-temper
-requires: [pro_micro]
+requires: [pro_micro,seeeduino_xiao_ble]
 exposes: [i2c_oled]
 features:
   - keys
