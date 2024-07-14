@@ -5,3 +5,11 @@
  */
 
 #include "temper.dtsi"
+
+/ {
+    chosen {
+        zmk,kscan = &mock_kscan;
+    };
+};
+
+/delete-node/ &kscan0;
